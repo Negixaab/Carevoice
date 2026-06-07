@@ -5,4 +5,5 @@ __pycache__/
 node_modules/
 .next/
 .DS_Store
-*.sqlite3backend/.env
+*.sqlite3
+backend/.env
