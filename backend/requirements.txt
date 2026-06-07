@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+groq
+supabase
+python-dotenv
+pyyaml
+langdetect
+deep-translator
+pydantic
